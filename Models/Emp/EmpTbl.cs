@@ -9,7 +9,7 @@ public partial class EmpTbl
 
     public string? Name { get; set; }
 
-    public short? Age { get; set; }
+    public short Age { get; set; }
 
     public string? City { get; set; }
 
